@@ -19,7 +19,7 @@
     "chart.js": "^4.4.0",
     "framer-motion": "^10.16.4",
     "next": "13.5.4",
-    "react": "^18",
+    "react": "^17",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
     "react-web-share": "^2.0.2"
